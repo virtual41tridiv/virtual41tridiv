@@ -23,6 +23,7 @@ I have been always intrested in new technologies and algorithm how a function wo
 <img align="left" alt="Bootstrap" width="30" src="https://i.imgur.com/zvP0aPa.png" />
 
 <img align="left" alt="Dart" width="30" src="https://camo.githubusercontent.com/1a5f56907fd173fcb05cf0c7aa9096776f8a909604f379bbfabbaee61ebbbbc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f666c75747465722e737667">
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <br>
 <br>
 
