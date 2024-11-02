@@ -2,20 +2,30 @@
 <h3 align="center">As a Researcher and Data Scientist, I'm steadily advancing my understanding of the intricacies of app and website functionality, along with their implementation, while deepening my expertise in machine learning, data science, and cloud computing.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<h4>
+      🌱 I’m mostly interested in:
+      <a href="https://github.com/virtual41tridiv">
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Cloud+Computing;CyberSecurity;Data+Science;AI+ML" /></a>
+      <br>
+  👯 I’m looking to collaborate on:
+      <a href="https://github.com/Sabyasachi-Seal">
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Research+projects;Quantum+Computing;Data+science" /></a>
+      <br>
+  💬 Talk to me all about:
+      <a href="https://github.com/Sabyasachi-Seal">
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Machine+Learning;Data+science;Artificial+Intelligence;Cloud+Computing;New+cutting+edge+technologies" /></a>
+   </h4>
 
-- 🔭 I’m currently working on **Quantum computing in cybersecurity**
 
-- 🌱 I’m currently looking **to build and create projects in Data science to get some experience and improve my skillset.**
+- 👨‍💻 All of my portfolio are available at [Tridiv Swain Portfolio](https://virtual41tridiv.github.io/tridiv.portfolio/)
 
-- 👨‍💻 All of my portfolio are available at [https://virtual41tridiv.github.io/tridiv.portfolio/](https://virtual41tridiv.github.io/tridiv.portfolio/)
-
-- 📝 I regularly write articles on [https://medium.com/@tridivswain.india2](https://medium.com/@tridivswain.india2)
+- 📝 I regularly write articles on [Medium](https://medium.com/@tridivswain.india2)
 
 - 💬 Ask me about **Machine Learning, Artificial Intelligence,Quantum Computing, Data engineering And Software Engineering**
 
 - 📫 How to reach me **tridivswain.india2@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1y38b75I8uFf4XTw6kK5di2NKRxGxDpzg/view?usp=drive_link](https://drive.google.com/file/d/1y38b75I8uFf4XTw6kK5di2NKRxGxDpzg/view?usp=drive_link)
+- 📄 Know about my experiences from my [Resume](https://drive.google.com/file/d/1y38b75I8uFf4XTw6kK5di2NKRxGxDpzg/view?usp=drive_link)
 
 - ⚡ Fun fact **In my downtime, I'm a bit of a joke maestro, crafting witty gems and cracking up anyone within earshot with my unique brand of humor!**
 
