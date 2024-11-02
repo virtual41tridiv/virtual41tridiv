@@ -19,6 +19,9 @@
 
 - ⚡ Fun fact **In my downtime, I'm a bit of a joke maestro, crafting witty gems and cracking up anyone within earshot with my unique brand of humor!**
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/swain_tridiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swain_tridiv" height="30" width="40" /></a>
