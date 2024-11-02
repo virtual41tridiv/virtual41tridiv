@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tridiv Swain</h1>
 <h3 align="center">As a Researcher and Data Scientist, I'm steadily advancing my understanding of the intricacies of app and website functionality, along with their implementation, while deepening my expertise in machine learning, data science, and cloud computing.</h3>
-
+<div align="center" >
+   <a href="https://github.com/virtual41tridiv">
+   <img width=100% src="https://raw.githubusercontent.com/virtual41tridiv/virtual41tridiv/ouput/action2.gif" href="https://github.com/virtual41tridiv" /></a>
+</div>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <h4>
       🌱 I’m mostly interested in:
