@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tridiv Swain</h1>
 <h3 align="center">As a Researcher and Data Scientist, I'm steadily advancing my understanding of the intricacies of app and website functionality, along with their implementation, while deepening my expertise in machine learning, data science, and Large-Language Models.</h3>
 
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <h4>
       🌱 I’m mostly interested in:
