@@ -122,7 +122,7 @@ class TridivSwain:
 
 [![Twitter](https://img.shields.io/badge/🐦_Twitter-264653?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/swain_tridiv)
 
-[![Instagram](https://img.shields.io/badge/📸_Instagram-E76F51?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/epiclensexplorations)
+[![Instagram](https://img.shields.io/badge/📸_Instagram-E76F51?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tridivcanlah/)
 
 [![Resume](https://img.shields.io/badge/📄_Resume-2A9D8F?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1y38b75I8uFf4XTw6kK5di2NKRxGxDpzg/view?usp=drive_link)
 
