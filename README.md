@@ -138,17 +138,7 @@ collaborate_on = [
 
 ---
 
-### `// block_07` — trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=virtual41tridiv&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
-
-</div>
-
----
-
-### `// block_08` — activity graph
+### `// block_07` — activity graph
 
 <div align="center">
 
@@ -158,7 +148,7 @@ collaborate_on = [
 
 ---
 
-### `// block_09` — connect
+### `// block_08` — connect
 
 <div align="center">
 
