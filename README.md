@@ -1,180 +1,76 @@
 <div align="center">
 
-![city](https://raw.githubusercontent.com/virtual41tridiv/virtual41tridiv/main/city.svg)
+# Tridiv Swain
 
-</div>
+**diffusion models · computer vision · AI/ML research**
 
----
+National University of Singapore — Singapore
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### `// block_01` — identity
-
-```
- ╔══════════════════════════╗
- ║  TS  tridiv swain        ║
- ║      @virtual41tridiv    ║
- ╠══════════════════════════╣
- ║  role   → researcher     ║
- ║           & data sci     ║
- ║  status → open to collab ║
- ║  mode   → learning 24/7  ║
- ║  secret → joke maestro   ║
- ╚══════════════════════════╝
-```
-
-`ai/ml` `quantum` `cloud` `cybersecurity` `data science` `llms`
-
-</td>
-<td width="45%" valign="top">
-
-### `// block_02` — now building
-
-```
- ┌─────────────────────────┐
- │ ▓ ml papers & research  │
- │ ▓ quantum experiments   │
- │ ▓ data eng pipelines    │
- │ ░ cloud defence systems │
- │ ░ cutting-edge llms     │
- └─────────────────────────┘
-```
-
-> 🌱 open to: research projects, quantum computing, data science collabs
-
-</td>
-</tr>
-</table>
-
----
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### `// block_03` — tech stack
-
-`████ LANGUAGES ████`
-
-![Python](https://img.shields.io/badge/Python-534AB7?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-3B6D11?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-3B6D11?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-BA7517?style=flat-square&logo=postgresql&logoColor=white)
-
-`████ ML / AI █████`
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-534AB7?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-534AB7?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-0F6E56?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-0F6E56?style=flat-square&logo=opencv&logoColor=white)
-
-`████ DATA ████████`
-
-![Pandas](https://img.shields.io/badge/Pandas-BA7517?style=flat-square&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-BA7517?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-BA7517?style=flat-square&logo=mysql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-BA7517?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-`████ CLOUD ████████`
-
-![GCP](https://img.shields.io/badge/GCP-185FA5?style=flat-square&logo=googlecloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-993556?style=flat-square&logo=git&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### `// block_04` — blueprint
-
-```
- ┌ research
- ├── data science
- ├──── ai / ml
- ├────── cloud
- ├──────── cyber
- └────────── quantum computing
-             ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-             F O U N D A T I O N
-```
-
-### `// block_05` — interests
-
-```python
-talk_to_me = [
-    "Machine Learning",
-    "AI / LLMs",
-    "Cloud Computing",
-    "Cybersecurity",
-    "Quantum Computing",
-    "Research & Papers",
-]
-
-collaborate_on = [
-    "Research Projects",
-    "Data Science",
-    "Quantum Experiments",
-]
-```
-
-</td>
-</tr>
-</table>
-
----
-
-### `// block_06` — github stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=virtual41tridiv&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7f77dd&icon_color=1d9e75&text_color=c9d1d9&ring_color=534ab7" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=virtual41tridiv&theme=radical&hide_border=true&background=0d1117&ring=534ab7&fire=ef9f27&currStreakLabel=1d9e75&sideLabels=c9d1d9&dates=555555" />
+[![portfolio](https://img.shields.io/badge/portfolio-1f2733?style=flat-square)](https://virtual41tridiv.github.io/tridiv.portfolio/)
+[![linkedin](https://img.shields.io/badge/linkedin-1f2733?style=flat-square)](https://linkedin.com/in/tridiv-swain-26ai09)
+[![medium](https://img.shields.io/badge/medium-1f2733?style=flat-square)](https://medium.com/@tridivswain.india2)
+[![x](https://img.shields.io/badge/x-1f2733?style=flat-square)](https://x.com/swain_tridiv)
+[![resume](https://img.shields.io/badge/resume-1f2733?style=flat-square)](https://drive.google.com/file/d/1y38b75I8uFf4XTw6kK5di2NKRxGxDpzg/view?usp=drive_link)
+[![email](https://img.shields.io/badge/email-7c6cf0?style=flat-square)](mailto:tridivswain.india2@gmail.com)
 
 <br>
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=virtual41tridiv&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7f77dd&text_color=c9d1d9&layout=compact" />
+![Contribution district](https://raw.githubusercontent.com/virtual41tridiv/virtual41tridiv/main/assets/contrib-city.svg)
+
+<sub>one block per day — built from the GitHub API, rebuilt daily</sub>
 
 </div>
 
 ---
 
-### `// block_07` — activity graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=virtual41tridiv&theme=react-dark&hide_border=true&bg_color=0d1117&color=7f77dd&line=1d9e75&point=ef9f27&area=true&area_color=534ab7" width="95%" />
-
-</div>
-
----
-
-### `// block_08` — connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_portfolio-0d1117?style=for-the-badge&logoColor=1d9e75)](https://virtual41tridiv.github.io/tridiv.portfolio/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=378add)](https://linkedin.com/in/tridiv-swain-26ai09)
-[![Medium](https://img.shields.io/badge/medium-0d1117?style=for-the-badge&logo=medium&logoColor=c9d1d9)](https://medium.com/@tridivswain.india2)
-[![Twitter](https://img.shields.io/badge/twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=378add)](https://twitter.com/swain_tridiv)
-[![Instagram](https://img.shields.io/badge/instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=d4537e)](https://www.instagram.com/tridivcanlah/)
-[![Resume](https://img.shields.io/badge/📄_resume-0d1117?style=for-the-badge&logoColor=ef9f27)](https://drive.google.com/file/d/1y38b75I8uFf4XTw6kK5di2NKRxGxDpzg/view?usp=drive_link)
-[![Email](https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=993556)](mailto:tridivswain.india2@gmail.com)
-
-</div>
-
----
-
-<div align="center">
+## the stack I build on
 
 ```
- ██████████████████████████████████████████████████████
- █                                                    █
- █   every expert was once a beginner.               █
- █   every building started as a single block. 🧱    █
- █                                                    █
- ██████████████████████████████████████████████████████
+layer 3   generative   diffusion & score-based models · samplers · guidance
+layer 2   perception   convolutional nets · image recognition · OpenCV
+layer 1   foundation   regression · trees · clustering · NLP · Python
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=virtual41tridiv&color=534ab7&style=flat-square&label=profile+views)
+**Now:** deepening layer 3 — denoising diffusion, conditioning, and the sampling
+theory underneath it. Open to research collaboration in generative vision.
 
+---
+
+## tooling
+
+![Python](https://img.shields.io/badge/Python-0b1017?style=flat-square&logo=python&logoColor=4B8BBE)
+![PyTorch](https://img.shields.io/badge/PyTorch-0b1017?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0b1017?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![OpenCV](https://img.shields.io/badge/OpenCV-0b1017?style=flat-square&logo=opencv&logoColor=5C3EE8)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0b1017?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![NumPy](https://img.shields.io/badge/NumPy-0b1017?style=flat-square&logo=numpy&logoColor=4DABCF)
+![pandas](https://img.shields.io/badge/pandas-0b1017?style=flat-square&logo=pandas&logoColor=E6EDF3)
+![Jupyter](https://img.shields.io/badge/Jupyter-0b1017?style=flat-square&logo=jupyter&logoColor=F37626)
+
+![C](https://img.shields.io/badge/C-0b1017?style=flat-square&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C%2B%2B-0b1017?style=flat-square&logo=cplusplus&logoColor=00599C)
+![SQL](https://img.shields.io/badge/SQL-0b1017?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-0b1017?style=flat-square&logo=mysql&logoColor=4479A1)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0b1017?style=flat-square&logo=googlecloud&logoColor=4285F4)
+![Git](https://img.shields.io/badge/Git-0b1017?style=flat-square&logo=git&logoColor=F05032)
+
+---
+
+## selected repositories
+
+| repository | what it is | language |
+| --- | --- | --- |
+| [OpenCV_face](https://github.com/virtual41tridiv/OpenCV_face) | face recognition app built on OpenCV | Python |
+| [CNN](https://github.com/virtual41tridiv/CNN) | convolutional neural network | Jupyter Notebook |
+| [ANN](https://github.com/virtual41tridiv/ANN) | artificial neural network | Jupyter Notebook |
+| [NLP](https://github.com/virtual41tridiv/NLP) | natural language processing model | Jupyter Notebook |
+| [Breast_Cancer](https://github.com/virtual41tridiv/Breast_Cancer) | breast cancer classification notebook | Jupyter Notebook |
+| [python-learning](https://github.com/virtual41tridiv/python-learning) | ongoing Python notebooks | Jupyter Notebook |
+
+<sub>Everything else → [github.com/virtual41tridiv?tab=repositories](https://github.com/virtual41tridiv?tab=repositories)</sub>
+
+---
+
+<div align="center">
+<sub>The district above is generated by <a href="scripts/build_city.py">scripts/build_city.py</a> and refreshed by a daily GitHub Action.</sub>
 </div>
