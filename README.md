@@ -6,12 +6,7 @@
 
 National University of Singapore — Singapore
 
-[![portfolio](https://img.shields.io/badge/portfolio-1f2733?style=flat-square)](https://virtual41tridiv.github.io/tridiv.portfolio/)
-[![linkedin](https://img.shields.io/badge/linkedin-1f2733?style=flat-square)](https://linkedin.com/in/tridiv-swain-26ai09)
-[![medium](https://img.shields.io/badge/medium-1f2733?style=flat-square)](https://medium.com/@tridivswain.india2)
-[![x](https://img.shields.io/badge/x-1f2733?style=flat-square)](https://x.com/swain_tridiv)
-[![resume](https://img.shields.io/badge/resume-1f2733?style=flat-square)](https://drive.google.com/file/d/1y38b75I8uFf4XTw6kK5di2NKRxGxDpzg/view?usp=drive_link)
-[![email](https://img.shields.io/badge/email-7c6cf0?style=flat-square)](mailto:tridivswain.india2@gmail.com)
+[![portfolio](https://img.shields.io/badge/portfolio-1f2733?style=flat-square)](https://virtual41tridiv.github.io/tridiv.portfolio/) [![linkedin](https://img.shields.io/badge/linkedin-1f2733?style=flat-square)](https://linkedin.com/in/tridiv-swain-26ai09) [![medium](https://img.shields.io/badge/medium-1f2733?style=flat-square)](https://medium.com/@tridivswain.india2) [![x](https://img.shields.io/badge/x-1f2733?style=flat-square)](https://x.com/swain_tridiv) [![resume](https://img.shields.io/badge/resume-1f2733?style=flat-square)](https://drive.google.com/file/d/1y38b75I8uFf4XTw6kK5di2NKRxGxDpzg/view?usp=drive_link) [![email](https://img.shields.io/badge/email-7c6cf0?style=flat-square)](mailto:tridivswain.india2@gmail.com)
 
 <br>
 
@@ -26,9 +21,9 @@ National University of Singapore — Singapore
 ## the stack I build on
 
 ```
-layer 3   generative   diffusion & score-based models · samplers · guidance
-layer 2   perception   convolutional nets · image recognition · OpenCV
-layer 1   foundation   regression · trees · clustering · NLP · Python
+layer 3   generative   diffusion models · samplers · guidance
+layer 2   perception   CNNs · image recognition · OpenCV
+layer 1   foundation   regression · trees · clustering · NLP
 ```
 
 **Now:** deepening layer 3 — denoising diffusion, conditioning, and the sampling
@@ -38,21 +33,9 @@ theory underneath it. Open to research collaboration in generative vision.
 
 ## tooling
 
-![Python](https://img.shields.io/badge/Python-0b1017?style=flat-square&logo=python&logoColor=4B8BBE)
-![PyTorch](https://img.shields.io/badge/PyTorch-0b1017?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0b1017?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-![OpenCV](https://img.shields.io/badge/OpenCV-0b1017?style=flat-square&logo=opencv&logoColor=5C3EE8)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0b1017?style=flat-square&logo=scikitlearn&logoColor=F7931E)
-![NumPy](https://img.shields.io/badge/NumPy-0b1017?style=flat-square&logo=numpy&logoColor=4DABCF)
-![pandas](https://img.shields.io/badge/pandas-0b1017?style=flat-square&logo=pandas&logoColor=E6EDF3)
-![Jupyter](https://img.shields.io/badge/Jupyter-0b1017?style=flat-square&logo=jupyter&logoColor=F37626)
+![Python](https://img.shields.io/badge/Python-0b1017?style=flat-square&logo=python&logoColor=4B8BBE) ![PyTorch](https://img.shields.io/badge/PyTorch-0b1017?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![TensorFlow](https://img.shields.io/badge/TensorFlow-0b1017?style=flat-square&logo=tensorflow&logoColor=FF6F00) ![OpenCV](https://img.shields.io/badge/OpenCV-0b1017?style=flat-square&logo=opencv&logoColor=5C3EE8) ![scikit-learn](https://img.shields.io/badge/scikit--learn-0b1017?style=flat-square&logo=scikitlearn&logoColor=F7931E) ![NumPy](https://img.shields.io/badge/NumPy-0b1017?style=flat-square&logo=numpy&logoColor=4DABCF) ![pandas](https://img.shields.io/badge/pandas-0b1017?style=flat-square&logo=pandas&logoColor=E6EDF3) ![Jupyter](https://img.shields.io/badge/Jupyter-0b1017?style=flat-square&logo=jupyter&logoColor=F37626)
 
-![C](https://img.shields.io/badge/C-0b1017?style=flat-square&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C%2B%2B-0b1017?style=flat-square&logo=cplusplus&logoColor=00599C)
-![SQL](https://img.shields.io/badge/SQL-0b1017?style=flat-square&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-0b1017?style=flat-square&logo=mysql&logoColor=4479A1)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0b1017?style=flat-square&logo=googlecloud&logoColor=4285F4)
-![Git](https://img.shields.io/badge/Git-0b1017?style=flat-square&logo=git&logoColor=F05032)
+![C](https://img.shields.io/badge/C-0b1017?style=flat-square&logo=c&logoColor=A8B9CC) ![C++](https://img.shields.io/badge/C%2B%2B-0b1017?style=flat-square&logo=cplusplus&logoColor=00599C) ![SQL](https://img.shields.io/badge/SQL-0b1017?style=flat-square&logo=postgresql&logoColor=4169E1) ![MySQL](https://img.shields.io/badge/MySQL-0b1017?style=flat-square&logo=mysql&logoColor=4479A1) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0b1017?style=flat-square&logo=googlecloud&logoColor=4285F4) ![Git](https://img.shields.io/badge/Git-0b1017?style=flat-square&logo=git&logoColor=F05032)
 
 ---
 
@@ -61,11 +44,11 @@ theory underneath it. Open to research collaboration in generative vision.
 | repository | what it is | language |
 | --- | --- | --- |
 | [OpenCV_face](https://github.com/virtual41tridiv/OpenCV_face) | face recognition app built on OpenCV | Python |
-| [CNN](https://github.com/virtual41tridiv/CNN) | convolutional neural network | Jupyter Notebook |
-| [ANN](https://github.com/virtual41tridiv/ANN) | artificial neural network | Jupyter Notebook |
-| [NLP](https://github.com/virtual41tridiv/NLP) | natural language processing model | Jupyter Notebook |
-| [Breast_Cancer](https://github.com/virtual41tridiv/Breast_Cancer) | breast cancer classification notebook | Jupyter Notebook |
-| [python-learning](https://github.com/virtual41tridiv/python-learning) | ongoing Python notebooks | Jupyter Notebook |
+| [CNN](https://github.com/virtual41tridiv/CNN) | convolutional neural network | Jupyter |
+| [ANN](https://github.com/virtual41tridiv/ANN) | artificial neural network | Jupyter |
+| [NLP](https://github.com/virtual41tridiv/NLP) | natural language processing model | Jupyter |
+| [Breast_Cancer](https://github.com/virtual41tridiv/Breast_Cancer) | breast cancer classification notebook | Jupyter |
+| [python-learning](https://github.com/virtual41tridiv/python-learning) | ongoing Python notebooks | Jupyter |
 
 <sub>Everything else → [github.com/virtual41tridiv?tab=repositories](https://github.com/virtual41tridiv?tab=repositories)</sub>
 
